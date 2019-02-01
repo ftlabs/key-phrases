@@ -1,0 +1,19 @@
+{
+  "name": "key-phrases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftlabs/key-phrases.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftlabs/key-phrases/issues"
+  },
+  "homepage": "https://github.com/ftlabs/key-phrases#readme"
+}
